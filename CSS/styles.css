@@ -1,7 +1,7 @@
 html {
     font-size: 10px;
     background: url("denim.jpeg") bottom center;
-    background-size: cover;
+    background-size: auto;
 }
 
 body, html {
